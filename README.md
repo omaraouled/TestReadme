@@ -1,5 +1,5 @@
 # my_ls: A simplified version of the Unix ls command
-This project implements a custom my_ls command in C that replicates the basic functionality of the standard ls command.
+This project implements a custom command called my_ls using GNU C, to replicates the basic functionalities of the standard Unix ls command.
 
 ## Features
 •	Lists directory contents.
